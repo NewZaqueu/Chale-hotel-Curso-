@@ -1,2 +1,2 @@
-# Chale-hotel-Curso-
-Site chalé hotel - projeto do curso Udemy.
+# Chale-hotel-curso-udemy
+Site chalé hotel - Projeto do curso Udemy- Web Completo.
